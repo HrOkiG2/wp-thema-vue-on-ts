@@ -1,0 +1,5 @@
+<?php
+/**
+ * WP - required file
+ */
+?>
