@@ -1,0 +1,21 @@
+###########################
+## exclousion
+###########################
+.DS_Store
+.htaccess
+wordpress_data/index.php
+wordpress_data/license.txt
+wordpress_data/readme.html
+wordpress_data/index.html
+wordpress_data/xmlrpc.php
+
+wordpress_data/wp-*.php
+wp-admin
+wp-includes
+wordpress_data/wp-content/languages
+wordpress_data/wp-content/plugins
+wordpress_data/wp-content/index.php
+wordpress_data/wp-content/themes/index.php
+wordpress_data/wp-content/themes/twenty*
+
+.env
